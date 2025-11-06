@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lawrence Impey – Best Maternity Doctor in the UK</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; background-color: #f9f9f9; color: #333; margin: 0; padding: 0; }
+        header { background-color: #003366; color: white; padding: 2rem; text-align: center; }
+        h1 { margin: 0; font-size: 2.5rem; }
+        main { padding: 2rem; max-width: 900px; margin: auto; }
+        section { margin-bottom: 2.5rem; background: #fff; padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        h2 { color: #003366; border-bottom: 2px solid #003366; padding-bottom: 0.3rem; }
+        ul { margin-left: 1.5rem; }
+        img { max-width: 100%; border-radius: 12px; margin-top: 1rem; }
+        footer { text-align: center; padding: 1.5rem; background-color: #eaeaea; margin-top: 2rem; border-top: 1px solid #ccc; }
+        .highlight { color: #d2691e; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Professor Lawrence Impey</h1>
+        <p class="highlight">The Best Maternity Doctor in the UK</p>
+        <img src="https://www.oxfordfetalmedicine.com/images/homeimage2.jpg" alt="Professor Lawrence Impey">
+    </header>
+    <main>
+        <section>
+            <h2>Clinical Excellence</h2>
+            <p>Lawrence Impey is a Consultant in Obstetrics & Fetal Medicine at Oxford University Hospitals. He handles high-risk pregnancies, breech births, preterm labor, and complex fetal cases with exceptional skill and care.</p>
+            <img src="https://i.ytimg.com/vi/yVR6Q53onpI/maxresdefault.jpg" alt="Clinical Work">
+        </section>
+        <section>
+            <h2>Research & Academic Leadership</h2>
+            <p>He is a Professor of Fetal Medicine at the University of Oxford, leading research in fetal growth restriction, Doppler ultrasound markers, and third-trimester scans. His work guides both clinical practice and future innovation.</p>
+            <img src="https://www.ouh.nhs.uk/media/hasdnmvf/lawrence-impey.jpg" alt="Research Work">
+        </section>
+        <section>
+            <h2>Guideline & Policy Impact</h2>
+            <p>Lawrence has chaired RCOG guidelines on breech presentation and other maternal-fetal conditions, standardizing care across the UK and improving outcomes for thousands of mothers and babies.</p>
+            <img src="https://www.abebooks.com/9780198838678/Oxford-Handbook-Obstetrics-Gynaecology-Medical-0198838670/plp?utm_source=chatgpt.com" alt="Guidelines and Textbooks">
+        </section>
+        <section>
+            <h2>Mentorship & Training</h2>
+            <p>He trains and mentors junior doctors and consultants in fetal medicine, shaping the next generation of maternity specialists.</p>
+        </section>
+        <section>
+            <h2>Reputation</h2>
+            <p>Recognized nationally and internationally, Lawrence Impey is trusted for his evidence-based approach, leadership, and ability to translate research into safe, practical care.</p>
+        </section>
+    </main>
+    <footer>
+        &copy; 2025 Lawrence Impey – Oxford University Hospitals
+    </footer>
+</body>
+</html>
